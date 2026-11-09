@@ -1,5 +1,16 @@
 # 🏖️ Playas — Spanish Beaches Guide (Java EE + JPA)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-007396)
+![JPA](https://img.shields.io/badge/JPA-59666C?logo=eclipseide&logoColor=white)
+![EclipseLink](https://img.shields.io/badge/EclipseLink-2C2255?logo=eclipseide&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2_Database-09476B)
+![JSP](https://img.shields.io/badge/JSP-007396)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?logo=apachetomcat&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white)
+
 A web application for exploring Spain's beaches. Users filter beaches by **autonomous community → province → municipality**, view photos and descriptions, and, once logged in, **rate** them from 0 to 5.
 
 > 🎓 **Academic project.** Built for the **Data Access** module (*Acceso a Datos*) of the **Higher National Diploma in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 2nd year.
