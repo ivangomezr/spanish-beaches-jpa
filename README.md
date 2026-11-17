@@ -13,7 +13,7 @@
 
 A web application for exploring Spain's beaches. Users filter beaches by **autonomous community → province → municipality**, view photos and descriptions, and, once logged in, **rate** them from 0 to 5.
 
-> 🎓 **Academic project.** Built for the **Data Access** module (*Acceso a Datos*) of the **Higher National Diploma in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 2nd year.
+> 🎓 **Academic project.** Built for the **Data Access** module (*Acceso a Datos*) of the **Higher Vocational Degree in Multiplatform Application Development** (*CFGS Desarrollo de Aplicaciones Multiplataforma, DAM*), 2nd year.
 
 ---
 
